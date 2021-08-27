@@ -1,4 +1,4 @@
-# Notes for Key JS Concepts
+# Notes for Key React.js Concepts
 
 - Unidirectional Data Flow
 - Props vs State
