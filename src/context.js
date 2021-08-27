@@ -7,22 +7,22 @@
 
 import React, { useContext } from "react";
 
-function Child(props) {
-    return <GrandChild value={props.value} />;
-}
+// function Child(props) {
+//     return <GrandChild value={props.value} />;
+// }
 
-function GrandChild(props) {
-    return <h1>{props.value}</h1>;
-}
+// function GrandChild(props) {
+//     return <h1>{props.value}</h1>;
+// }
 
-export default function App() {
+// export default function App() {
 
-    return (
-        <div className="App">
-            <Child value={1} />
-        </div>
-    );
-}
+//     return (
+//         <div className="App">
+//             <Child value={1} />
+//         </div>
+//     );
+// }
 
 // =========================================>
 
